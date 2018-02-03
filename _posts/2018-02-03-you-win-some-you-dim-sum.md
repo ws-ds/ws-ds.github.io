@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "You Win Some, You Dim Sum"
+author: "Aldrin Balisi"
 categories: journal
-tags: [documentation,sample]
+tags: [beginning]
 image: forest.jpg
 ---
 
