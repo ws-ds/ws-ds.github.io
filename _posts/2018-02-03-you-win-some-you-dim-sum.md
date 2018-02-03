@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You Win Some, You Dim Sum"
+title: "You win some, you dim sum"
 author: "Aldrin Balisi"
 categories: journal
 tags: [introductions]

@@ -43,8 +43,9 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  font-family: "Lato", sans-serif;
+
+  color: #222;
 }
 
 a {
