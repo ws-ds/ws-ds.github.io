@@ -4,7 +4,7 @@ title: "New year, better me"
 author: "Winnie Fong"
 categories: journal
 tags: [introductions]
-image: goals.jpg
+image: goals-cover.jpg
 ---
 
 # Happy _belated_ New Year!
@@ -49,7 +49,7 @@ categories: daily, school/career, and health. They are mainly short-term goals f
 - Work out **everyday**.
 - Achieve fitness goals.
 - Stretch (3x/week).
-- Medidate (2x/week)
+- Meditate (2x/week).
 - Cook healthy food.
 - Maintain my weight.
 - Have a healthy and positive body image.
