@@ -4,7 +4,7 @@ title: "New year, better me"
 author: "Winnie Fong"
 categories: journal
 tags: [introductions]
-image: goals-cover.jpg
+image: goals.jpg
 ---
 
 # Happy _belated_ New Year!
