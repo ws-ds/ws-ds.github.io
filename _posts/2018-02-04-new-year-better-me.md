@@ -17,7 +17,7 @@ So here it is. It's happening. But first, a little bit about myself.
 
 ![alt-img](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/26904803_10156093300328817_4120714769693908648_n.jpg?oh=00a1b1f9ae9d55cb67739712cb1f1fcf&oe=5AD8972B "My name is Winnie!")
 
-I'm from Toronto, grew up in Markham which is pretty much the suburbs full of amazing Asian food. I'm entering my senior year as a biomedical engineering student at the University of Waterloo. Currently situated in San Francisco  and 
+I'm from Toronto, grew up in Markham which is pretty much the suburbs full of amazing Asian food. I'm entering my senior year as a biomedical engineering student at the University of Waterloo. Currently situated in San Francisco  and
 working at Apple as a software engineering project manager. I enjoy playing sports like volleyball and badminton, but my heart always goes back to cheerleading. Yes guys, cheerleading **is** a sport.
 I started playing the piano since I was 7, well, I was forced. But I guess you could say I appreciate it a lot more now. I love dogs, earl grey, cooking, and cars.
 
@@ -61,4 +61,3 @@ Whenever I have a bad week normally due to bad interviews, fear of failing, and 
 my grandparents would take us out for dim sum. So it isn't just about the food, it's the great company. It's knowing that regardless of what is going on in our lives, you win some and
 you lose some, and when you lose, there will always be people who care and support you.
 This blog will be the place where I can document my life, track progress, and share my journey to becoming a better version of me.
-
