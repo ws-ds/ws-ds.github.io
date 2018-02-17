@@ -3,7 +3,7 @@ layout: post
 title: "How to take care of the devil's tongue"
 author: "Aldrin Balisi"
 categories: journal
-tags: [plants,valentines,diy,home]
+tags: [plants,valentines,diy,home,aldrin]
 image: snake-plant.jpg
 ---
 

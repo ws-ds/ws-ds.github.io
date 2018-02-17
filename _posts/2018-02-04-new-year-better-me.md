@@ -3,7 +3,7 @@ layout: post
 title: "New year, better me"
 author: "Winnie Fong"
 categories: journal
-tags: [introductions]
+tags: [introductions,winnie,goals]
 image: goals.jpg
 ---
 

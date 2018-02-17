@@ -3,7 +3,7 @@ layout: post
 title: "You win some, you dim sum"
 author: "Aldrin Balisi"
 categories: journal
-tags: [introductions]
+tags: [introductions,aldrin]
 image: dimsum.jpg
 ---
 
