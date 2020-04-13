@@ -4,7 +4,7 @@ title: "Oatmeal Date Cookies"
 author: "Winnie Fong"
 categories: journal
 tags: [recipe, quarantine cooking, sweets, dessert]
-image: oatmeal-cookies.jpg
+image: cookies.jpg
 ---
 
 Makes 8 cookies, but trust, you'll want more.
