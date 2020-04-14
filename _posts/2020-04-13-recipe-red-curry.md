@@ -4,7 +4,7 @@ title: "Thai Red Curry (w/ Chicken + Veg)"
 author: "Winnie Fong"
 categories: journal
 tags: [recipe, quarantine cooking, entree, winnie]
-image: thai-curry.png
+image: thai-curry.jpg
 ---
 
 Makes 4 servings, or 2 if you eat as much as Aldrin.
@@ -17,7 +17,7 @@ Makes 4 servings, or 2 if you eat as much as Aldrin.
 - 1 red bell pepper, sliced into thin strips
 - 2 handfuls of sliced kale (only keep the leaves!!!)
 - 1 cup of carrots, diagonally sliced into 1/4in thick rounds
-- Optional veggies: long beans, spinach, broccoli, whatever you fancy ;) 
+- Optional veggies: long beans, spinach, broccoli, whatever you fancy ;)
 - 1-2 chicken breasts, thinly sliced
 - 1 can (14oz) coconut milk (I like to use light coconut milk)
 - 2 tbsp Thai red curry paste
